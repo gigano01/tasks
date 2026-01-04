@@ -1,4 +1,3 @@
-import { hasEnvVars } from "@/lib/utils";
 import Link from "next/link";
 import { Suspense } from "react";
 
